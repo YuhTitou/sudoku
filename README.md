@@ -1,2 +1,2 @@
 # sudoku
-# projet sudoku de 2e année d'iut
+# projet sudoku de 1ere année de DUT en java et javaFX
